@@ -1,6 +1,6 @@
 [![MasterHead](https://imgur.com/SAEKxnl.png)]()
 <h1 align="center">Hi 👋, I'm Lidia Holgado</h1>
-<h3 align="center">A passionate Junior Frontend developer from Spain</h3>
+<h3 align="center">A passionate Junior Web developer from Spain</h3>
 
 <img align="right" alt="Coding" width="400" src="https://imgur.com/yAN3QzB.gif">
 
